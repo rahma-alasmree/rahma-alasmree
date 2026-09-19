@@ -1,35 +1,35 @@
-## Hello, I’m Rahma Al-Asmar 👋
+# Hi, I'm Rahma Alasmree 👋
 
-Full-Stack Web Developer
+**Full Stack Web Developer**
 
-I’m a graduate of a Diploma in Programming and Web Development. I love building clean, responsive, and user-friendly websites, from the user interface to the server and database. Currently, I’m looking for a job or internship opportunity as a web developer.
+I'm a graduate of the Programming and Web Development diploma. I enjoy building clean, responsive, and easy-to-use websites, from the interface to the server and database. I'm currently looking for a job or a training opportunity as a web developer.
 
 ## About Me
-🎓 Diploma in Programming and Web Development
-💼 Looking for a job or internship as a web developer
-🌱 Currently learning: Intensive English, C++ programming language
-📍 Saudi Arabia
+
+- 🎓 Diploma in Programming and Web Development
+- 💼 Looking for a job or internship as a Web Developer
+- 🌱 Currently learning: (اكتبي شي تتعلمينه فعلاً)
+- 📍 Saudi Arabia
 
 ## Skills
 
-Frontend: HTML, CSS, JavaScript
+- **Front-End:** HTML, CSS, JavaScript
+- **Back-End:** Python
+- **Databases:** MySQL
+- **Tools:** Git, GitHub, VS Code
 
-Backend: Python
+## Projects
 
-Databases: MySQL
-
-Tools: Git, GitHub, VS Code
-
-Projects
-
-Coming soon. I’m currently working on building my first projects and will add them here.
+Coming soon. I'm currently building my first projects and will add them here.
 
 ## What I Offer
-Responsive websites that work on mobile and desktop
-Backend development using Python
-Database design
-Clean and well-documented code
 
-## Connect with Me
-Email: (rahma_2921@icloud.com)
-LinkedIn: ([your account link](https://www.linkedin.com/in/rahma-alasmry)
+- Responsive websites that work on mobile and desktop
+- Back-end development with Python
+- Database design
+- Clean and well-documented code
+
+## Contact Me
+
+- 📧 Email: rahma_2921@icloud.com
+- 💼 LinkedIn: ([your account link](https://www.linkedin.com/in/rahma-alasmry)
