@@ -8,8 +8,8 @@ I'm a graduate of the Programming and Web Development diploma. I enjoy building 
 
 - 🎓 Diploma in Programming and Web Development
 - 💼 Looking for a job or internship as a Web Developer
-- 🌱 Currently learning: (اكتبي شي تتعلمينه فعلاً)
-- 📍 Saudi Arabia
+- 🌱 Currently learning:Intensive English, C++ programming language
+- 📍 Jeddah Saudi Arabia
 
 ## Skills
 
