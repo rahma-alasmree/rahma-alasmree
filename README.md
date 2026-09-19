@@ -31,5 +31,7 @@ Coming soon. I'm currently building my first projects and will add them here.
 
 ## Contact Me
 
-- 📧 Email: rahma_2921@icloud.com
-- 💼 LinkedIn: ([your account link](https://www.linkedin.com/in/rahma-alasmry)
+- 📧 [My Email](mailto:rahma_2921@icloud.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahma-alasmry-80253235b)
+- 💻 [GitHub](https://github.com/rahma-alasmree)
+
